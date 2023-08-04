@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/MLflow/mlruns/0/4a0600b14f3349a2a28fa28150b14b5f/artifacts
+end_time: 1691168566788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a0600b14f3349a2a28fa28150b14b5f
+run_name: languid-goat-371
+run_uuid: 4a0600b14f3349a2a28fa28150b14b5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691168559480
+status: 3
+tags: []
+user_id: admin

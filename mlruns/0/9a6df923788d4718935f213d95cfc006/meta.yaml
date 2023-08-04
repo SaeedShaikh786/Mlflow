@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/MLflow/mlruns/0/9a6df923788d4718935f213d95cfc006/artifacts
+end_time: 1691145522000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a6df923788d4718935f213d95cfc006
+run_name: masked-skink-64
+run_uuid: 9a6df923788d4718935f213d95cfc006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691145521844
+status: 4
+tags: []
+user_id: admin

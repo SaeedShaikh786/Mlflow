@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/MLflow/mlruns/0/eca26fec10664ca58ff5c2af3f8526c5/artifacts
+end_time: 1691150429039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eca26fec10664ca58ff5c2af3f8526c5
+run_name: invincible-mare-228
+run_uuid: eca26fec10664ca58ff5c2af3f8526c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691150416816
+status: 3
+tags: []
+user_id: admin

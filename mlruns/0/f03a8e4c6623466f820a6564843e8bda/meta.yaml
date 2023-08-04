@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/MLflow/mlruns/0/f03a8e4c6623466f820a6564843e8bda/artifacts
+end_time: 1691070878979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f03a8e4c6623466f820a6564843e8bda
+run_name: suave-ape-934
+run_uuid: f03a8e4c6623466f820a6564843e8bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691070878905
+status: 3
+tags: []
+user_id: admin

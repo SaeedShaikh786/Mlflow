@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/MLflow/mlruns/0/4fe99b5f670a4ba9b59ddf9a62f4d572/artifacts
+end_time: 1690996576916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fe99b5f670a4ba9b59ddf9a62f4d572
+run_name: beautiful-gnat-861
+run_uuid: 4fe99b5f670a4ba9b59ddf9a62f4d572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690996576869
+status: 3
+tags: []
+user_id: admin

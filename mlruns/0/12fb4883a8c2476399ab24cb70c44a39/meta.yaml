@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/MLflow/mlruns/0/12fb4883a8c2476399ab24cb70c44a39/artifacts
+end_time: 1691145663887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12fb4883a8c2476399ab24cb70c44a39
+run_name: judicious-boar-683
+run_uuid: 12fb4883a8c2476399ab24cb70c44a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691145663824
+status: 4
+tags: []
+user_id: admin

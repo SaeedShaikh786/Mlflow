@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/MLflow/mlruns/0/3fe8a5c81b264a95b738ce5d8cdf9613/artifacts
+end_time: 1691146287816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fe8a5c81b264a95b738ce5d8cdf9613
+run_name: angry-mole-988
+run_uuid: 3fe8a5c81b264a95b738ce5d8cdf9613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691146274890
+status: 3
+tags: []
+user_id: admin

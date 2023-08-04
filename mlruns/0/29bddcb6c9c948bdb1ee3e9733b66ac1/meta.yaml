@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/MLflow/mlruns/0/29bddcb6c9c948bdb1ee3e9733b66ac1/artifacts
+end_time: 1691070877306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29bddcb6c9c948bdb1ee3e9733b66ac1
+run_name: orderly-boar-79
+run_uuid: 29bddcb6c9c948bdb1ee3e9733b66ac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691070877208
+status: 3
+tags: []
+user_id: admin
